@@ -105,7 +105,7 @@ The current Ayurvedic and Panchakarma healthcare ecosystem faces challenges in:
 ---
 
 ## 📸 Screenshots & UI Highlights
-*(Add Figma screenshots / app UI images here for GitHub showcase)*
+
 
 ---
 
